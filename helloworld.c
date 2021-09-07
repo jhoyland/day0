@@ -13,7 +13,7 @@ int main()
 
 	z = x+y;
 
-	printf("Hello world! %d + %d = %d ",x,y,z);
+	printf("Hello world! Please! %d + %d = %d ",x,y,z);
 
 	return 0;
 
