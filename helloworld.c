@@ -5,7 +5,7 @@
 int main()
 {
 	int x; // Declaration
-	x = 7; // Initialization
+	x = 2; // Initialization
 
 	int y = 5; // Both together
 
@@ -13,7 +13,8 @@ int main()
 
 	z = x+y;
 
-	printf("Hello world! %d ",z);
+	printf("Hello world! %d + %d = %d ",x,y,z);
 
 	return 0;
+
 }
